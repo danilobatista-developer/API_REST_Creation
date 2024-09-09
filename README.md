@@ -1,4 +1,5 @@
 RESTful API Creation
+
 The objective of this project is to develop a RESTful API for managing a vehicle inventory. The API includes the following endpoints:
 
 GET /vehicles: Retrieves a list of all vehicles.
